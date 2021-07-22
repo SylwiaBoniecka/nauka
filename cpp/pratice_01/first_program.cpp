@@ -12,6 +12,7 @@ int main()
 {
     cout <<"Hello world!"<< endl;  //wyswietlanie tekstu na ekranie
     cout <<"Hello Sylwia!"<< endl;
+    cout << "ZMIANYT" << endl;
          
     /*
     komentarz 1
